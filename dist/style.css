@@ -26,7 +26,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   position: relative;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 a {
@@ -548,3 +548,4 @@ header.active {
 }
 
 /*# sourceMappingURL=style.css.map */
+
